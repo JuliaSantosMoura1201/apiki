@@ -1,0 +1,81 @@
+#movelmenu{
+	font-weight: bold
+}
+
+
+#interna-thumbnail{
+	width: 100%;
+	height: 40%;
+}
+
+footer{
+	background-color: grey;
+	max-height: 500px;
+	padding: 5%;
+
+}
+
+footer h3{
+	color: black;
+}
+footer p{
+	text-align: left;
+	color: black;
+}
+
+h4{
+	padding-left: 7%;
+	padding-right: 7%;
+	color: #ff6700
+}
+
+#texto{
+	padding-left: 10%;
+	padding-bottom: 10%;
+	padding-right: 10%;
+	padding-top: 5%;
+}
+.card{ 
+	margin-left: 20%;
+	margin-right: 20%;
+	color: black;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+footer h6{
+	color: white;
+	font-weight: bold;
+}
+
+#footer-redesSocias{
+	text-align: center;
+}
+
+#footer-logo{
+	text-align: center;
+}
+
+#links-fixos{
+  /*você pode alterar largura usando width*/
+  padding:5px;
+  position:fixed;
+  bottom:2%;
+  right:2%;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+
+}
+
+#Logo{
+	width: 150px;
+	height: 60px;
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+p, h3 { text-align: center; font-family:Arial,sans-serif; color: #1e92f4}
+img.icone {max-width:100%; min-height: 200px; margin:0 auto; display: block; border-radius: 10px;}
